@@ -3,6 +3,6 @@ package testeGit;
 public class Main {
 
 	 public static void main(String[] args) {
-		System.out.println("TESTANDO ");
+		System.out.println("EDITANDO ");
 	}
 }
